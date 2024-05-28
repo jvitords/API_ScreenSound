@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jvdua\\OneDrive\\Documentos\\ScreenSoudAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF4267EB-0F17-4432-89E0-2AFD0183E75C}|ScreenSoudAPI\\ScreenSoudAPI.csproj|c:\\users\\jvdua\\onedrive\\documentos\\screensoudapi\\screensoudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4267EB-0F17-4432-89E0-2AFD0183E75C}|ScreenSoudAPI\\ScreenSoudAPI.csproj|solutionrelative:screensoudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF4267EB-0F17-4432-89E0-2AFD0183E75C}|ScreenSoudAPI\\ScreenSoudAPI.csproj|c:\\users\\jvdua\\onedrive\\documentos\\screensoudapi\\screensoudapi\\modelos\\musicasfavoritas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF4267EB-0F17-4432-89E0-2AFD0183E75C}|ScreenSoudAPI\\ScreenSoudAPI.csproj|solutionrelative:screensoudapi\\modelos\\musicasfavoritas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF4267EB-0F17-4432-89E0-2AFD0183E75C}|ScreenSoudAPI\\ScreenSoudAPI.csproj|c:\\users\\jvdua\\onedrive\\documentos\\screensoudapi\\screensoudapi\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF4267EB-0F17-4432-89E0-2AFD0183E75C}|ScreenSoudAPI\\ScreenSoudAPI.csproj|solutionrelative:screensoudapi\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4267EB-0F17-4432-89E0-2AFD0183E75C}|ScreenSoudAPI\\ScreenSoudAPI.csproj|c:\\users\\jvdua\\onedrive\\documentos\\screensoudapi\\screensoudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF4267EB-0F17-4432-89E0-2AFD0183E75C}|ScreenSoudAPI\\ScreenSoudAPI.csproj|solutionrelative:screensoudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,39 +34,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Musica.cs",
               "DocumentMoniker": "C:\\Users\\jvdua\\OneDrive\\Documentos\\ScreenSoudAPI\\ScreenSoudAPI\\Modelos\\Musica.cs",
               "RelativeDocumentMoniker": "ScreenSoudAPI\\Modelos\\Musica.cs",
               "ToolTip": "C:\\Users\\jvdua\\OneDrive\\Documentos\\ScreenSoudAPI\\ScreenSoudAPI\\Modelos\\Musica.cs",
               "RelativeToolTip": "ScreenSoudAPI\\Modelos\\Musica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAlAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T20:40:53.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MusicasFavoritas.cs",
               "DocumentMoniker": "C:\\Users\\jvdua\\OneDrive\\Documentos\\ScreenSoudAPI\\ScreenSoudAPI\\Modelos\\MusicasFavoritas.cs",
               "RelativeDocumentMoniker": "ScreenSoudAPI\\Modelos\\MusicasFavoritas.cs",
               "ToolTip": "C:\\Users\\jvdua\\OneDrive\\Documentos\\ScreenSoudAPI\\ScreenSoudAPI\\Modelos\\MusicasFavoritas.cs",
               "RelativeToolTip": "ScreenSoudAPI\\Modelos\\MusicasFavoritas.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBQAAAA5AAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T20:34:31.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jvdua\\OneDrive\\Documentos\\ScreenSoudAPI\\ScreenSoudAPI\\Program.cs",
               "RelativeDocumentMoniker": "ScreenSoudAPI\\Program.cs",
               "ToolTip": "C:\\Users\\jvdua\\OneDrive\\Documentos\\ScreenSoudAPI\\ScreenSoudAPI\\Program.cs",
               "RelativeToolTip": "ScreenSoudAPI\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T16:17:44.705Z",
               "EditorCaption": ""
