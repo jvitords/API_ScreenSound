@@ -20,7 +20,7 @@ internal class LinqFilter
     {
         // filtrar artista de um determinado gênero
         var artistaPorGeneroMusical = musicas.Where(musica => musica.Genero.Contains(genero)).Select(musica => musica.Artista).Distinct().ToList();
-        Console.WriteLine($"----- Artista com música do gênero {genero} -----\n");
+        Console.WriteLine($"----- Artistas com música do gênero {genero} -----\n");
         foreach (var artista in artistaPorGeneroMusical) { 
             Console.WriteLine($"Artista: {artista}"); 
         }

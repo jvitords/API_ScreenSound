@@ -12,3 +12,4 @@ C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\
 C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\ScreenSoudAPI.pdb
 C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\ScreenSoudAPI.genruntimeconfig.cache
 C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\ref\ScreenSoudAPI.dll
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\ScreenSoudAPI.sourcelink.json
