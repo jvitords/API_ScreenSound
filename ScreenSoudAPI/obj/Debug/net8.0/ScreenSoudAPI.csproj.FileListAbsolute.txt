@@ -1,0 +1,14 @@
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\bin\Debug\net8.0\ScreenSoudAPI.exe
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\bin\Debug\net8.0\ScreenSoudAPI.deps.json
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\bin\Debug\net8.0\ScreenSoudAPI.runtimeconfig.json
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\bin\Debug\net8.0\ScreenSoudAPI.dll
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\bin\Debug\net8.0\ScreenSoudAPI.pdb
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\ScreenSoudAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\ScreenSoudAPI.AssemblyInfoInputs.cache
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\ScreenSoudAPI.AssemblyInfo.cs
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\ScreenSoudAPI.csproj.CoreCompileInputs.cache
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\ScreenSoudAPI.dll
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\refint\ScreenSoudAPI.dll
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\ScreenSoudAPI.pdb
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\ScreenSoudAPI.genruntimeconfig.cache
+C:\Users\jvdua\OneDrive\Documentos\ScreenSoudAPI\ScreenSoudAPI\obj\Debug\net8.0\ref\ScreenSoudAPI.dll
