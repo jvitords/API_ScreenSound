@@ -25,7 +25,7 @@ internal class MusicasFavoritas
         }
     }
 
-    public void GerarArquivoJson()
+    public void GerarArquivoJson() // função que gera um arquivo json da lista de músicas favoritas
     {
         string json = JsonSerializer.Serialize(new
         {

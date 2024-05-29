@@ -39,6 +39,7 @@ internal class LinqFilter
 
     public static void ExibirMusicasEmCSharp(List<Musica> musicas)
     {
+        // exibe todas as musicas que tem a tonalidade em "C#"
         var musicasComTonalidadeEspecifica = musicas.Where(musica => musica.Tonalidade == "C#").Select(musica => musica.Nome).ToList();
         Console.WriteLine("\nMúsicas com a Tonalidade 'C#'\n");
         foreach (var musica in musicasComTonalidadeEspecifica)

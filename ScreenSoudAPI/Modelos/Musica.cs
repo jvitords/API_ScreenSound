@@ -6,7 +6,7 @@ internal class Musica
 {
     private string [] tonalidades = { "C", "C#", "D", "Eb", "E", "F", "F#", "G", "Ab", "A", "Bb", "B"};
 
-    [JsonPropertyName("song")]
+    [JsonPropertyName("song")] // método p/ receber informação do arquivo json
     public string? Nome { get; set; } // "?" significa que pode ser nulo
 
     [JsonPropertyName("artist")]
@@ -20,11 +20,11 @@ internal class Musica
 
     [JsonPropertyName("key")]
     public int Key { get; set; }
-
+    
     public string Tonalidade {
         get
         {
-            return tonalidades[Key];
+            return tonalidades[Key]; // pegando o índice p/ ver a tonalidade na lista de tonalidades
         }
     }
     public void ExibirMusica()
