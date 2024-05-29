@@ -36,4 +36,14 @@ internal class LinqFilter
             Console.WriteLine($"Música: {musica}");
         }
     }
+
+    public static void ExibirMusicasEmCSharp(List<Musica> musicas)
+    {
+        var musicasComTonalidadeEspecifica = musicas.Where(musica => musica.Tonalidade == "C#").Select(musica => musica.Nome).ToList();
+        Console.WriteLine("\nMúsicas com a Tonalidade 'C#'\n");
+        foreach (var musica in musicasComTonalidadeEspecifica)
+        {
+            Console.WriteLine($"- {musica}");
+        }
+    }
 }

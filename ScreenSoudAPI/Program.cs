@@ -8,22 +8,23 @@ using (HttpClient  client = new HttpClient())
     {
         string resposta = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
-        //musicas[0].ExibirMusica();
+        musicas[1].ExibirMusica();
+        LinqFilter.ExibirMusicasEmCSharp(musicas);
         //LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
         //LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
         //LinqFilter.FiltrarArtistaPorGeneroMusical(musicas, "pop");
         //LinqFilter.ExibirMusicasDeUmArtista(musicas, "U2");
 
 
-        var musicasFavoritas = new MusicasFavoritas("Vitor");
-        musicasFavoritas.AdicionarMusicaFavorita(musicas[1]);
-        musicasFavoritas.AdicionarMusicaFavorita(musicas[377]);
-        musicasFavoritas.AdicionarMusicaFavorita(musicas[4]);
-        musicasFavoritas.AdicionarMusicaFavorita(musicas[6]);
-        musicasFavoritas.AdicionarMusicaFavorita(musicas[1467]);
-        //musicasFavoritas.ExibirMusicasFavoritas();
+        //var musicasFavoritas = new MusicasFavoritas("Vitor");
+        //musicasFavoritas.AdicionarMusicaFavorita(musicas[1]);
+        //musicasFavoritas.AdicionarMusicaFavorita(musicas[377]);
+        //musicasFavoritas.AdicionarMusicaFavorita(musicas[4]);
+        //musicasFavoritas.AdicionarMusicaFavorita(musicas[6]);
+        //musicasFavoritas.AdicionarMusicaFavorita(musicas[1467]);
+        ////musicasFavoritas.ExibirMusicasFavoritas();
 
-        musicasFavoritas.GerarArquivoJson();
+        //musicasFavoritas.GerarArquivoJson();
 
     }
     catch (Exception excessao)

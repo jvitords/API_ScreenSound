@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScreenSoudAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adf021fd2be8e3bc374174586edfb746743169db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8da702a9348ce52e4acb92de07096c6e6482080")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScreenSoudAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScreenSoudAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
